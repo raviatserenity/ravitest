@@ -1,2 +1,4 @@
 testing, this is ravi ranjan, i am writing into the file.
-
+How are you doing today? 
+This is a great training going on today!! 
+This is going to be my second commit today!!! 
